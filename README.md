@@ -35,6 +35,13 @@ optional arguments:
 ```
 
 ## Working
-![](working - screenshot1.png)
 
-![](working - screenshot2.png)
+
+![working - screenshot1](https://user-images.githubusercontent.com/77694789/189346809-ff89a5cd-72a4-41f1-84aa-93cfe57ffe8d.png)
+
+
+![working - screenshot2](https://user-images.githubusercontent.com/77694789/189346886-ea852881-42ec-43a2-a23f-4f3b4076a714.png)
+
+
+
+
