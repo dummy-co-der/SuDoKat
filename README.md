@@ -4,6 +4,7 @@
 ![System](https://img.shields.io/badge/System-Linux-red)
 ![Author](https://img.shields.io/badge/Author-Anuj-yellow)
 
+![](usage-SuDoKat.png)
 
 SuDoKat is a subdomain enumeration tool which is used to find the subdomains along with its IP Address. It's build with:
 - Python
