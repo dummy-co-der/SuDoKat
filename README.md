@@ -36,7 +36,6 @@ optional arguments:
                         Local wordlist path
   --verbose, -v         Increase Output Verbosity
   --more, -m            Display more information about the Taget
-  
 ```
 
 ## Working
@@ -46,7 +45,3 @@ optional arguments:
 
 
 ![working - screenshot2](https://user-images.githubusercontent.com/77694789/189346886-ea852881-42ec-43a2-a23f-4f3b4076a714.png)
-
-
-
-
